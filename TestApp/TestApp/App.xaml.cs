@@ -17,14 +17,17 @@ namespace TestApp
             MainPage = new AppShell();
         }
 
+        // has the app started?
         protected override void OnStart()
         {
         }
 
+        // is the app asleep?
         protected override void OnSleep()
         {
         }
 
+        // is the app resumed?
         protected override void OnResume()
         {
         }

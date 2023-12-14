@@ -32,3 +32,20 @@ This template uses Shell, an app container that reduces the complexity of your a
 - An integrated search handler.
 
 Open AppShell.xaml to begin exploring. To learn more about Shell visit: https://docs.microsoft.com/xamarin/xamarin-forms/app-fundamentals/shell/introduction
+
+VIDEO TIPS:
+
+
+DEBUGGING
+
+	(https://www.youtube.com/watch?v=zvp7wvbyceo)
+	ANDROID:
+To debug, emulator allows real time modification of the app via the XAML files, allowing you to see changes in real time. 
+		This is CRUCIAL, b/c it allows you to see how the code impacts your app IN REAL TIME
+		For android, CLICK STOP DEBUGGING at top of VS instead of closing the emulator
+	
+	(https://learn.microsoft.com/en-us/xamarin/ios/deploy-test/debugging-in-xamarin-ios?tabs=windows)
+	IOS:
+To debug, simple plug in device and click Play
+	Can set breakpoints which will be highlighted in yellow
+	
