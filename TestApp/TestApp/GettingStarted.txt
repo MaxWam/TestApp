@@ -46,6 +46,11 @@ To debug, emulator allows real time modification of the app via the XAML files, 
 	
 	(https://learn.microsoft.com/en-us/xamarin/ios/deploy-test/debugging-in-xamarin-ios?tabs=windows)
 	IOS:
-To debug, simple plug in device and click Play
-	Can set breakpoints which will be highlighted in yellow
+Have to have iTunes installed and make sure you right click on iOS and set as default (or choose it at the top )
+To debug, simple plug in device and click on 'iPhone' device and click Play
+	if you dont see iPhone make sure Hot start is enabled and iTunes is downloaded
+	If this done correctly you can setup Hot Restart
+		have to login to Apple account
+		Also need apple developer account also setup (search this)
+
 	
